@@ -9,6 +9,7 @@ Also, plotted curve to observe accuracy vs k - value, and accuracy vs p(distance
 
 ## 2. Logistic Regression
 
-Implemented Logistic Regression from scratch using basic python libraries.Stochastic Gradient Descent was used to update the value of parameters. Applied Logistic Regression in Sentiment Analysis DataSet(Movie Reviews) which has 1000 samples and 2 class (500 samples from each class). Used TF-IDF representation to convert the text data into feature vector. Then applied PCA to reduce the dimension to 20. 
+Implemented Logistic Regression from scratch using basic python libraries.Stochastic Gradient Descent was used to update the value of parameters. Applied Logistic Regression in Sentiment Analysis DataSet(Movie Reviews) which has 1000 samples and 2 class (500 samples from each class. Used TF-IDF representation to convert the text data into feature vector. Then applied PCA to reduce the dimension to 20.
+
 **Result:** Achieved an accuracy of 62%. 
 Plotted loss curves for different values of Batch_Size in Stochastic Gradient Descent, Learning Rate and Regularization Coefficient.
