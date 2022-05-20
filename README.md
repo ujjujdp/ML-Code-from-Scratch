@@ -30,5 +30,6 @@ Implemented PCA and LDA from scratch using basic python libraries. DataSet used 
 Implemented K-Means Clustering Algorithm from scratch using basic python libraries. Random 2-D DataSet was generated using make_blobs inbuilt function from sklearn library. Plotted the scatter plot of points belonging to different clusters by color coding them.
 
 **Result:** Scatter Plot of data points with k = 3
+
 ![kmeans1](https://user-images.githubusercontent.com/46930697/169519703-3fb63e6f-c55d-46c5-bb03-5d4188759316.JPG)
 ![kmeans2](https://user-images.githubusercontent.com/46930697/169519719-bf743657-f1ee-4eca-813d-2f62dca2c7bc.JPG)
