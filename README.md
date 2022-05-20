@@ -21,3 +21,10 @@ Plotted loss curves for different values of Batch_Size in Stochastic Gradient De
 Implemented PCA and LDA from scratch using basic python libraries. DataSet used contains image of people with happy or sad emotion, the task was to classify the test images as happy or sad. Used PCA to reduce the dimension from 10000 to 16. Further used LDA to project the data points in 1-D real line on which the separation between two classes were easily visible. 
 
 **Result:** Achieved an accuracy of 100%.
+
+## 3. K-Means Clustering
+
+Implemented K-Means Clustering Algorithm from scratch using basic python libraries. Random 2-D DataSet was generated using make_blobs inbuilt function from sklearn library. Plotted the scatter plot of points belonging to different clusters by color coding them.
+
+**Result:** Scatter Plot of data points with k = 3
+
